@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 1,
+  "customFolder": "0_Inbox/split",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": ""
+}

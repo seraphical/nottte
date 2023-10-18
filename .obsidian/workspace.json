@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "cea483ac921ac4ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9dd240777a8ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f930b9c8b0dfb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e4ab60b584cdd2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f935cd67362119",
+        "type": "tabs",
+        "dimension": 80.82454458293384,
+        "children": [
+          {
+            "id": "a72e41f7afea08e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89aa2ad53b6a8d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4cee9bbe6f33e0d6",
+        "type": "tabs",
+        "dimension": 19.175455417066157,
+        "children": [
+          {
+            "id": "db4285525da1b156",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f04a53a5859f49f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "cf9648ad8d0d58fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e40a4fa23ebd8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "820ed655b869d70f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5f8214e0cead808",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d9469ddd5691df35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b608b58a07659e58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd903b4d248a4ff3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dcccabd5120ff5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "74754cb734954b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2274f00968e5ce9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": true,
+      "graph:查看关系图谱": false,
+      "zk-prefixer:创建时间戳笔记": true,
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "obsidian-stille:Toggle Stille": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "a72e41f7afea08e4",
+  "lastOpenFiles": [
+    "1_Study/000_Engineered/Git/实践问题.md",
+    "1_Study/100_FE/003_Javascript/合并中/1_base/回调函数.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/01_JavaScript基础.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/04_预解析.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/02_函数的两个阶段.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/03_循环.md",
+    "4_WiKi/200_快捷键和插件/obsidian使用语法及快捷键.md",
+    "1_Study/000_Engineered/Git/GitFlow.md",
+    "1_Study/000_Engineered/Git/git.md",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/1_this/01_this指向.md",
+    "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/6_数组.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/08_数组.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/06_对象.md",
+    "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/12_ES6.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/20_ES6.md",
+    "1_Study/100_FE/001_HTML/08_表格.md",
+    "1_Study/100_FE/001_HTML/01_html简介.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/1 JS基础/007 函数与取样式.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/002 事件基础.md",
+    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/08-1_数组小案例_求最大值和index.md",
+    "3_Work/开发记录/日结.md",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/3_面向对象/01_什么是面向对象.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/001 事件对象.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/003 事件中级.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/C 面向对象高级.md",
+    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/E 正则表达式.md",
+    "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced",
+    "1_Study/100_FE/003_Javascript/合并中/1_base",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/1_this",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/5_设计模式",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/4_闭包",
+    "1_Study/100_FE/003_Javascript/合并中/2_advanced/3_面向对象",
+    "1_Study/100_FE/003_Javascript/合并中",
+    "Archive/🔗/Pasted image 20231017110711.png",
+    "Archive/🔗/Pasted image 20231017103147.png",
+    "Archive/🔗/Pasted image 20231014101313.png",
+    "Archive/🔗/Pasted image 20231014004549.png",
+    "Archive/🔗/Pasted image 20231014004157.png",
+    "Archive/🔗/Pasted image 20231014004026.png",
+    "Archive/🔗/Pasted image 20231014003916.png",
+    "Archive/🔗/Pasted image 20231014003755.png",
+    "Archive/🔗/Pasted image 20231014003719.png",
+    "Archive/🔗/Pasted image 20231013143509.png",
+    "2_Life/000_PeriodicNotes/23/1_Weekly/10",
+    "4_WiKi/000_Subject/知识库搭建/多系统比较.canvas",
+    "1_Study/100_FE/004_Server/node/overview.canvas",
+    "未命名.canvas"
+  ]
+}

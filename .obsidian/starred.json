@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "005 JavaScript基础",
+      "path": "1_Study/100_Program/103_Javascript/1_ FE/01_js基础/01 JavaScript基础.md"
+    },
+    {
+      "type": "file",
+      "title": "18_git",
+      "path": "1_Study/200_Basics&Tool/116_Git/18_git.md"
+    },
+    {
+      "type": "file",
+      "title": "2022-09-13",
+      "path": "2_Life/000_Journal/22/22.09/2022-09-13.md"
+    },
+    {
+      "type": "file",
+      "title": "CodeSpecification",
+      "path": "1_Study/000_FE/011_Extensions/CodeSpecification/CodeSpecification.md"
+    },
+    {
+      "type": "file",
+      "title": "2.2 如何背单词：针对英语学习者的次优背单词方案",
+      "path": "2_Life/100_reading/2_Eff/01_英语自学手册/2.2 如何背单词：针对英语学习者的次优背单词方案.md"
+    },
+    {
+      "type": "file",
+      "title": "以 obsidian 为主构建高效闭环学习流程及异步多任务学习模式",
+      "path": "4_WiKi/000_Project-based/030_OnRead/以 obsidian 为主构建高效闭环学习流程及异步多任务学习模式.md"
+    },
+    {
+      "type": "file",
+      "title": "认知觉醒",
+      "path": "2_Life/100_reading/0_半日闲/认知觉醒.md"
+    },
+    {
+      "type": "file",
+      "title": "日结",
+      "path": "3_Work/开发记录/日结.md"
+    },
+    {
+      "type": "file",
+      "title": "03_对象与对象方法",
+      "path": "1_Study/000_FE/003_Javascript/2_后验/02_JS_advanced/03_对象与对象方法.md"
+    },
+    {
+      "type": "file",
+      "title": "11_正则",
+      "path": "1_Study/000_FE/003_Javascript/2_后验/01_JS_base/11_正则.md"
+    },
+    {
+      "type": "file",
+      "title": "2305032322_时间浪费指南",
+      "path": "0_Inbox/瞬间记忆/2305032322_时间浪费指南.md"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "笔记区": {
+    "main": {
+      "id": "8725286e7bbd62bc",
+      "type": "split",
+      "children": [
+        {
+          "id": "c1a2f60e678a11b0",
+          "type": "leaf",
+          "state": {
+            "type": "markdown",
+            "state": {
+              "file": "前端/第一章 HTML&CSS基础/5.网页列表.md",
+              "mode": "source"
+            }
+          }
+        },
+        {
+          "id": "490b2e1d2c5668f4",
+          "type": "split",
+          "children": [
+            {
+              "id": "f877c7ffc1bd7273",
+              "type": "split",
+              "children": [
+                {
+                  "id": "bcf292e33d4b978f",
+                  "type": "leaf",
+                  "state": {
+                    "type": "markdown",
+                    "state": {
+                      "file": "前端/第一章 HTML&CSS基础/5.网页列表.md",
+                      "mode": "preview"
+                    }
+                  }
+                },
+                {
+                  "id": "0a8bc60e8bdae49b",
+                  "type": "leaf",
+                  "state": {
+                    "type": "outline",
+                    "state": {
+                      "file": "前端/第一章 HTML&CSS基础/5.网页列表.md"
+                    }
+                  }
+                }
+              ],
+              "direction": "vertical"
+            },
+            {
+              "id": "fe257db3f5de3db7",
+              "type": "leaf",
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "file": "前端/第一章 HTML&CSS基础/5.网页列表.md",
+                  "options": {
+                    "collapse-filter": true,
+                    "search": "",
+                    "localJumps": 1,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": false,
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "collapse-color-groups": true,
+                    "colorGroups": [],
+                    "collapse-display": true,
+                    "showArrow": false,
+                    "textFadeMultiplier": 0,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": true,
+                    "centerStrength": 0.518713248970312,
+                    "repelStrength": 10,
+                    "linkStrength": 1,
+                    "linkDistance": 250,
+                    "scale": 1,
+                    "close": false
+                  }
+                }
+              }
+            }
+          ],
+          "direction": "horizontal"
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "66fe3f67a9eb2561",
+      "type": "mobile-drawer",
+      "children": [
+        {
+          "id": "a8d30593a7e93a85",
+          "type": "leaf",
+          "state": {
+            "type": "starred",
+            "state": {}
+          }
+        },
+        {
+          "id": "74b1b9c350389fe8",
+          "type": "leaf",
+          "state": {
+            "type": "file-explorer",
+            "state": {}
+          }
+        },
+        {
+          "id": "5659294030b44837",
+          "type": "leaf",
+          "state": {
+            "type": "search",
+            "state": {
+              "query": "tag:#！！！",
+              "matchingCase": false,
+              "explainSearch": false,
+              "collapseAll": true,
+              "extraContext": false,
+              "sortOrder": "alphabetical"
+            }
+          }
+        },
+        {
+          "id": "d8753492fbd4c1ac",
+          "type": "leaf",
+          "state": {
+            "type": "tag",
+            "state": {
+              "sortOrder": "frequency",
+              "useHierarchy": true
+            }
+          }
+        }
+      ],
+      "currentTab": 1
+    },
+    "right": {
+      "id": "7065afcf8c08ae84",
+      "type": "mobile-drawer",
+      "children": [
+        {
+          "id": "0aab965c0cb70893",
+          "type": "leaf",
+          "state": {
+            "type": "backlink",
+            "state": {
+              "file": "前端/第一章 HTML&CSS基础/5.网页列表.md",
+              "collapseAll": true,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          }
+        },
+        {
+          "id": "26a210ce99cefbc5",
+          "type": "leaf",
+          "state": {
+            "type": "outline",
+            "state": {
+              "file": "前端/第一章 HTML&CSS基础/5.网页列表.md"
+            }
+          }
+        },
+        {
+          "id": "044b437baf458ef7",
+          "type": "leaf",
+          "state": {
+            "type": "outgoing-link",
+            "state": {
+              "file": "前端/第一章 HTML&CSS基础/5.网页列表.md",
+              "linksCollapsed": false,
+              "unlinkedCollapsed": false
+            }
+          }
+        }
+      ],
+      "currentTab": 1
+    },
+    "active": "bcf292e33d4b978f"
+  },
+  "常用": {
+    "main": {
+      "id": "8725286e7bbd62bc",
+      "type": "split",
+      "children": [
+        {
+          "id": "93ec43bfaa48607e",
+          "type": "leaf",
+          "state": {
+            "type": "markdown",
+            "state": {
+              "file": "碎碎念/碎碎念.md",
+              "mode": "source",
+              "source": true
+            }
+          },
+          "group": "15d4ef131062542e"
+        },
+        {
+          "id": "a5e92e88ef4e13d3",
+          "type": "leaf",
+          "state": {
+            "type": "markdown",
+            "state": {
+              "file": "碎碎念/碎碎念.md",
+              "mode": "preview",
+              "source": true
+            }
+          },
+          "group": "15d4ef131062542e"
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "66fe3f67a9eb2561",
+      "type": "mobile-drawer",
+      "children": [
+        {
+          "id": "a8d30593a7e93a85",
+          "type": "leaf",
+          "state": {
+            "type": "starred",
+            "state": {}
+          }
+        },
+        {
+          "id": "74b1b9c350389fe8",
+          "type": "leaf",
+          "state": {
+            "type": "file-explorer",
+            "state": {}
+          }
+        },
+        {
+          "id": "5659294030b44837",
+          "type": "leaf",
+          "state": {
+            "type": "search",
+            "state": {
+              "query": "tag:#！！！",
+              "matchingCase": false,
+              "explainSearch": false,
+              "collapseAll": true,
+              "extraContext": false,
+              "sortOrder": "alphabetical"
+            }
+          }
+        },
+        {
+          "id": "d8753492fbd4c1ac",
+          "type": "leaf",
+          "state": {
+            "type": "tag",
+            "state": {
+              "sortOrder": "frequency",
+              "useHierarchy": true
+            }
+          }
+        }
+      ],
+      "currentTab": 1,
+      "pinned": true
+    },
+    "right": {
+      "id": "7065afcf8c08ae84",
+      "type": "mobile-drawer",
+      "children": [
+        {
+          "id": "0aab965c0cb70893",
+          "type": "leaf",
+          "state": {
+            "type": "backlink",
+            "state": {
+              "file": "碎碎念/碎碎念.md",
+              "collapseAll": true,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          }
+        },
+        {
+          "id": "26a210ce99cefbc5",
+          "type": "leaf",
+          "state": {
+            "type": "outline",
+            "state": {
+              "file": "碎碎念/碎碎念.md"
+            }
+          }
+        },
+        {
+          "id": "044b437baf458ef7",
+          "type": "leaf",
+          "state": {
+            "type": "outgoing-link",
+            "state": {
+              "file": "碎碎念/碎碎念.md",
+              "linksCollapsed": false,
+              "unlinkedCollapsed": false
+            }
+          }
+        }
+      ],
+      "currentTab": 1
+    },
+    "active": "a5e92e88ef4e13d3"
+  }
+}

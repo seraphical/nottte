@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1692380033931,
+      "path": "1_Study/100_FE/005_TypeScript",
+      "title": "FE"
+    },
+    {
+      "type": "file",
+      "path": "3_Work/开发记录/日结.md",
+      "ctime": 1683249365730
+    },
+    {
+      "type": "group",
+      "ctime": 1692380276658,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1685328507905,
+          "items": [
+            {
+              "type": "file",
+              "path": "2_Life/100_reading/0_半日闲/22/认知觉醒.md",
+              "ctime": 1683249365730
+            }
+          ],
+          "title": "mind"
+        },
+        {
+          "type": "group",
+          "ctime": 1685328469549,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1687921785018,
+              "path": "4_WiKi/200_快捷键和插件/obsidian使用语法及快捷键.md"
+            },
+            {
+              "type": "file",
+              "path": "1_Study/100_FE/011_Extensions/CodeSpecification/CodeSpecification.md",
+              "ctime": 1683249365730
+            },
+            {
+              "type": "file",
+              "path": "1_Study/000_Engineered/Git/git.md",
+              "ctime": 1683249365730
+            },
+            {
+              "type": "file",
+              "path": "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/11_正则.md",
+              "ctime": 1683249365730
+            }
+          ],
+          "title": "tool"
+        },
+        {
+          "type": "file",
+          "path": "2_Life/100_reading/2_Eff/01_英语自学手册/2.2 如何背单词：针对英语学习者的次优背单词方案.md",
+          "ctime": 1683249365730
+        },
+        {
+          "type": "file",
+          "path": "2_Life/000_PeriodicNotes/22/Daily/09/2022-09-13.md",
+          "ctime": 1683249365730
+        }
+      ],
+      "title": "spare"
+    }
+  ]
+}

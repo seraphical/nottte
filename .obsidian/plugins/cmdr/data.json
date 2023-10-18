@@ -1,0 +1,74 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-recall:track-file",
+      "icon": "bell-ring",
+      "name": "Recall: Track Note",
+      "mode": "any",
+      "color": "#eae666"
+    },
+    {
+      "id": "obsidian-recall:untrack-file",
+      "icon": "bell-off",
+      "name": "Recall: Untrack Note",
+      "mode": "any",
+      "color": "#a40404"
+    },
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "将文件移动到其他文件夹",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:export-pdf",
+      "icon": "bus",
+      "name": "导出为 PDF",
+      "mode": "any"
+    },
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "删除当前文件",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "backlink"
+    ],
+    "leftRibbon": [
+      "New Excalidraw drawing",
+      "Clear Unused Images",
+      "Open quick switcher",
+      "Insert template",
+      "Open command palette",
+      "Create new unique note",
+      "Memos",
+      "Toggle Stille"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
