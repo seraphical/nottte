@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02_this,回调函数",
+      "path": "100_Fe/1_javascript/02_this,回调函数.md"
+    },
+    {
+      "basename": "2023-10-19",
+      "path": "Daily/2023-10-19.md"
+    },
+    {
       "basename": "git",
       "path": "1_Study/000_Engineered/Git/git.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "07_async和await",
       "path": "1_Study/100_FE/003_Javascript/1_先验/02_js_advanced/07_async和await.md"
-    },
-    {
-      "basename": "2022-10-22",
-      "path": "2_Life/000_PeriodicNotes/22/Daily/10/2022-10-22.md"
-    },
-    {
-      "basename": "2022-07-11",
-      "path": "2_Life/000_PeriodicNotes/22/Daily/07/2022-07-11.md"
     }
   ],
   "omittedPaths": [],
