@@ -12,14 +12,13 @@
   "nldates-obsidian",
   "obsidian-minimal-settings",
   "obsidian-list-callouts",
-  "obsidian-excalidraw-plugin",
   "obsidian-copy-block-link",
   "oz-clear-unused-images",
   "cmdr",
-  "recent-files-obsidian",
   "file-explorer-note-count",
   "obsidian-recall",
   "file-order",
   "obsidian-editor-shortcuts",
-  "shortcuts-extender"
+  "shortcuts-extender",
+  "obsidian-excalidraw-plugin"
 ]

@@ -11,16 +11,27 @@
             "id": "f4f930b9c8b0dfb1",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/hash.md"
+              }
+            }
+          },
+          {
+            "id": "b1698ec8d369d74d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Fe/1_javascript/02_this,回调函数.md",
+                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +43,6 @@
       {
         "id": "78f935cd67362119",
         "type": "tabs",
-        "dimension": 80.82454458293384,
         "children": [
           {
             "id": "a72e41f7afea08e4",
@@ -58,37 +68,20 @@
                 "sortOrder": "byCreatedTime"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4cee9bbe6f33e0d6",
-        "type": "tabs",
-        "dimension": 19.175455417066157,
-        "children": [
-          {
-            "id": "db4285525da1b156",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           },
           {
-            "id": "8f04a53a5859f49f",
+            "id": "83ec495e279b8910",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "cf9648ad8d0d58fe",
@@ -133,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Fe/1_javascript/02_this,回调函数.md",
+                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Fe/1_javascript/02_this,回调函数.md",
+                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Fe/1_javascript/02_this,回调函数.md"
+                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md"
               }
             }
           }
@@ -202,9 +195,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f4f930b9c8b0dfb1",
+  "active": "b1698ec8d369d74d",
   "lastOpenFiles": [
+    "link/Pasted image 20231021015350.png",
+    "draw/hash.md",
+    "draw/ajax.md",
+    "100_Fe/1_javascript/03_代码讲解+ajax.md",
+    "Daily/2023-10-18.md",
+    "draw/setTimeout.md",
+    "link/Pasted image 20231021012310.png",
+    "100_Fe/1_javascript/面向对象_对象创建.md",
+    "Daily/2023-10-21.md",
     "Daily/2023-10-19.md",
+    "100_Fe/1_javascript/02_this,回调函数.md",
+    "100_Fe/1_javascript/01_原型链.md",
     "1_Study/000_Engineered/Git/实践问题.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/回调函数.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/01_JavaScript基础.md",
@@ -220,16 +224,6 @@
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/06_对象.md",
     "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/12_ES6.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/20_ES6.md",
-    "1_Study/100_FE/001_HTML/08_表格.md",
-    "1_Study/100_FE/001_HTML/01_html简介.md",
-    "1_Study/100_FE/003_Javascript/glance/1 blue/1 JS基础/007 函数与取样式.md",
-    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/002 事件基础.md",
-    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/08-1_数组小案例_求最大值和index.md",
-    "3_Work/开发记录/日结.md",
-    "1_Study/100_FE/003_Javascript/合并中/2_advanced/3_面向对象/01_什么是面向对象.md",
-    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/001 事件对象.md",
-    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/003 事件中级.md",
-    "1_Study/100_FE/003_Javascript/glance/1 blue/2 JS进阶/C 面向对象高级.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced",
@@ -248,7 +242,6 @@
     "Archive/🔗/Pasted image 20231014003916.png",
     "Archive/🔗/Pasted image 20231014003755.png",
     "Archive/🔗/Pasted image 20231014003719.png",
-    "Archive/🔗/Pasted image 20231013143509.png",
     "2_Life/000_PeriodicNotes/23/1_Weekly/10",
     "4_WiKi/000_Subject/知识库搭建/多系统比较.canvas",
     "1_Study/100_FE/004_Server/node/overview.canvas",
