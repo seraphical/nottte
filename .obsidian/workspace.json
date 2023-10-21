@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
+                "file": "Daily/2023-10-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8457c64608dbbd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_Fe/1_javascript/04_流程控制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
+                "file": "100_Fe/1_javascript/04_流程控制.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md",
+                "file": "100_Fe/1_javascript/04_流程控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Fe/1_javascript/03_代码讲解+ajax.md"
+                "file": "100_Fe/1_javascript/04_流程控制.md"
               }
             }
           }
@@ -195,20 +208,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b1698ec8d369d74d",
+  "active": "8457c64608dbbd40",
   "lastOpenFiles": [
+    "draw/流程控制.md",
+    "Daily/2023-10-18.md",
+    "100_Fe/1_javascript/04_流程控制.md",
+    "100_Fe/1_javascript/03_代码讲解+ajax.md",
+    "100_Fe/1_javascript/01_原型链.md",
+    "100_Fe/1_javascript/git.md",
+    "Daily/2023-10-21.md",
+    "draw/ajax.md",
     "link/Pasted image 20231021015350.png",
     "draw/hash.md",
-    "draw/ajax.md",
-    "100_Fe/1_javascript/03_代码讲解+ajax.md",
-    "Daily/2023-10-18.md",
     "draw/setTimeout.md",
     "link/Pasted image 20231021012310.png",
     "100_Fe/1_javascript/面向对象_对象创建.md",
-    "Daily/2023-10-21.md",
     "Daily/2023-10-19.md",
     "100_Fe/1_javascript/02_this,回调函数.md",
-    "100_Fe/1_javascript/01_原型链.md",
     "1_Study/000_Engineered/Git/实践问题.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/回调函数.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/01_JavaScript基础.md",
@@ -222,8 +238,6 @@
     "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/6_数组.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/08_数组.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/06_对象.md",
-    "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/12_ES6.md",
-    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/20_ES6.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced",
@@ -241,7 +255,6 @@
     "Archive/🔗/Pasted image 20231014004026.png",
     "Archive/🔗/Pasted image 20231014003916.png",
     "Archive/🔗/Pasted image 20231014003755.png",
-    "Archive/🔗/Pasted image 20231014003719.png",
     "2_Life/000_PeriodicNotes/23/1_Weekly/10",
     "4_WiKi/000_Subject/知识库搭建/多系统比较.canvas",
     "1_Study/100_FE/004_Server/node/overview.canvas",
