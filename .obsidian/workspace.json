@@ -36,15 +36,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Fe/1_javascript/04_流程控制.md",
+                "file": "100_Fe/1_javascript/05_project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "35e57cfb6044b02b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/项目流程.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Fe/1_javascript/04_流程控制.md",
+                "file": "draw/项目流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Fe/1_javascript/04_流程控制.md",
+                "file": "draw/项目流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Fe/1_javascript/04_流程控制.md"
+                "file": "draw/项目流程.md"
               }
             }
           }
@@ -191,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,16 +219,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8457c64608dbbd40",
+  "active": "35e57cfb6044b02b",
   "lastOpenFiles": [
-    "draw/流程控制.md",
     "Daily/2023-10-18.md",
+    "draw/项目流程.md",
+    "link/Pasted Image 20231022153349_035.png",
+    "100_Fe/1_javascript/05_project.md",
     "100_Fe/1_javascript/04_流程控制.md",
     "100_Fe/1_javascript/03_代码讲解+ajax.md",
+    "draw/ajax.md",
+    "link/Pasted image 20231022140935.png",
+    "draw/流程控制.md",
     "100_Fe/1_javascript/01_原型链.md",
     "100_Fe/1_javascript/git.md",
     "Daily/2023-10-21.md",
-    "draw/ajax.md",
     "link/Pasted image 20231021015350.png",
     "draw/hash.md",
     "draw/setTimeout.md",
@@ -235,9 +250,6 @@
     "1_Study/000_Engineered/Git/GitFlow.md",
     "1_Study/000_Engineered/Git/git.md",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/1_this/01_this指向.md",
-    "1_Study/100_FE/003_Javascript/2_后验/01_JS_base/6_数组.md",
-    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/08_数组.md",
-    "1_Study/100_FE/003_Javascript/1_先验/01_js_base/06_对象.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced",
@@ -253,8 +265,6 @@
     "Archive/🔗/Pasted image 20231014004549.png",
     "Archive/🔗/Pasted image 20231014004157.png",
     "Archive/🔗/Pasted image 20231014004026.png",
-    "Archive/🔗/Pasted image 20231014003916.png",
-    "Archive/🔗/Pasted image 20231014003755.png",
     "2_Life/000_PeriodicNotes/23/1_Weekly/10",
     "4_WiKi/000_Subject/知识库搭建/多系统比较.canvas",
     "1_Study/100_FE/004_Server/node/overview.canvas",
