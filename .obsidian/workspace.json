@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Fe/1_javascript/05_project.md",
+                "file": "100_Fe/1_javascript/10_project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-10-22.md",
+                "file": "100_Fe/1_javascript/01_原型链.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4407dfb1069aeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_Fe/1_javascript/01_原型链.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c4a4e964355a4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_Fe/1_javascript/05_this 和面向对象.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-10-22.md",
+                "file": "100_Fe/1_javascript/05_this 和面向对象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-10-22.md",
+                "file": "100_Fe/1_javascript/05_this 和面向对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-10-22.md"
+                "file": "100_Fe/1_javascript/05_this 和面向对象.md"
               }
             }
           }
@@ -222,38 +248,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "35e57cfb6044b02b",
+  "active": "5c4a4e964355a4cd",
   "lastOpenFiles": [
-    "draw/项目流程.md",
-    "Daily/2023-10-22.md",
-    "Daily/2023-10-18.md",
-    "link/Pasted Image 20231022153349_035.png",
-    "100_Fe/1_javascript/05_project.md",
+    "link/Pasted image 20231023164107.png",
+    "100_Fe/1_javascript/01_原型链.md",
+    "100_Fe/1_javascript/02_this,回调函数.md",
+    "100_Fe/1_javascript/05_this 和面向对象.md",
     "100_Fe/1_javascript/04_流程控制.md",
+    "100_Fe/1_javascript/未命名.md",
+    "100_Fe/1_javascript/10_project.md",
+    "Daily/2023-10-18.md",
+    "draw/prototype.md",
+    "draw/未命名.md",
+    "Daily/2023-10-22.md",
+    "draw/项目流程.md",
+    "link/Pasted Image 20231022153349_035.png",
     "100_Fe/1_javascript/03_代码讲解+ajax.md",
     "draw/ajax.md",
     "link/Pasted image 20231022140935.png",
     "draw/流程控制.md",
-    "100_Fe/1_javascript/01_原型链.md",
     "100_Fe/1_javascript/git.md",
     "Daily/2023-10-21.md",
     "link/Pasted image 20231021015350.png",
     "draw/hash.md",
     "draw/setTimeout.md",
     "link/Pasted image 20231021012310.png",
-    "100_Fe/1_javascript/面向对象_对象创建.md",
     "Daily/2023-10-19.md",
-    "100_Fe/1_javascript/02_this,回调函数.md",
     "1_Study/000_Engineered/Git/实践问题.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/回调函数.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/01_JavaScript基础.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/04_预解析.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/02_函数的两个阶段.md",
     "1_Study/100_FE/003_Javascript/1_先验/01_js_base/03_循环.md",
-    "4_WiKi/200_快捷键和插件/obsidian使用语法及快捷键.md",
-    "1_Study/000_Engineered/Git/GitFlow.md",
-    "1_Study/000_Engineered/Git/git.md",
-    "1_Study/100_FE/003_Javascript/合并中/2_advanced/1_this/01_this指向.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced",
