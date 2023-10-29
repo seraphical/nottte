@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9dd240777a8ead",
+        "id": "a6e84461bb645342",
         "type": "tabs",
         "children": [
           {
-            "id": "f4f930b9c8b0dfb1",
+            "id": "35a28693fced86a7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "draw/hash.md"
+                "file": "draw/9_git.md"
               }
             }
           },
           {
-            "id": "b1698ec8d369d74d",
+            "id": "0868a78f9333a7eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-10-18.md",
+                "file": "100_Fe/1_javascript/04_流程控制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,61 +31,12 @@
             }
           },
           {
-            "id": "8457c64608dbbd40",
+            "id": "bc96dbee3e934871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Fe/1_javascript/10_project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e57cfb6044b02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_Fe/1_javascript/01_原型链.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4407dfb1069aeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d02c974238e11307",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "draw/movie.md"
-              }
-            }
-          },
-          {
-            "id": "0f161505e6f5d28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_Fe/1_javascript/06_继承.md",
+                "file": "100_Fe/1_javascript/08_node.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "回调",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Fe/1_javascript/06_继承.md",
+                "file": "100_Fe/1_javascript/08_node.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Fe/1_javascript/06_继承.md",
+                "file": "100_Fe/1_javascript/08_node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Fe/1_javascript/06_继承.md"
+                "file": "100_Fe/1_javascript/08_node.md"
               }
             }
           }
@@ -240,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,40 +208,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0f161505e6f5d28f",
+  "active": "bc96dbee3e934871",
   "lastOpenFiles": [
-    "100_Fe/1_javascript/05_this 和面向对象.md",
-    "100_Fe/1_javascript/06_继承.md",
-    "100_Fe/1_javascript/10_project.md",
-    "draw/redux.md",
-    "draw/movie.md",
+    "100_Fe/1_javascript/07_git&node.md",
+    "100_Fe/1_javascript/08_node.md",
+    "100_Fe/1_javascript/未命名",
+    "draw/11_card.md",
+    "100_Fe/1_javascript/04_流程控制.md",
     "draw/未命名.md",
-    "link/Pasted Image 20231026224710_138.png",
+    "100_Fe/1_javascript/05_this 和面向对象.md",
+    "100_Fe/1_javascript/10_project.md",
+    "100_Fe/1_javascript/06_继承.md",
+    "100_Fe/1_javascript/03_代码讲解+ajax.md",
     "Daily/2023-10-18.md",
+    "100_Fe/1_javascript/02_this,回调函数.md",
+    "draw/10_branch.md",
+    "draw/9_git.md",
+    "draw/8_redux.md",
+    "draw/7_movie.md",
+    "link/Pasted Image 20231026224710_138.png",
     "100_Fe/1_javascript/01_原型链.md",
     "Daily/2023-10-25.md",
     "Daily/2023-10-26.md",
-    "100_Fe/1_javascript/04_流程控制.md",
-    "100_Fe/1_javascript/02_this,回调函数.md",
-    "100_Fe/1_javascript/03_代码讲解+ajax.md",
     "Daily/2023-10-21.md",
     "Daily/2023-10-22.md",
     "Daily/2023-10-24.md",
     "link/Pasted image 20231023164107.png",
-    "draw/prototype.md",
-    "draw/项目流程.md",
+    "draw/1_prototype.md",
+    "draw/6_项目流程.md",
     "link/Pasted Image 20231022153349_035.png",
-    "draw/ajax.md",
+    "draw/5_ajax.md",
     "link/Pasted image 20231022140935.png",
-    "draw/流程控制.md",
-    "100_Fe/1_javascript/git.md",
+    "draw/4_流程控制.md",
     "link/Pasted image 20231021015350.png",
-    "draw/hash.md",
-    "draw/setTimeout.md",
+    "draw/2_hash.md",
     "link/Pasted image 20231021012310.png",
-    "Daily/2023-10-19.md",
-    "1_Study/000_Engineered/Git/实践问题.md",
-    "1_Study/100_FE/003_Javascript/合并中/1_base/回调函数.md",
     "1_Study/100_FE/003_Javascript/合并中/1_base/Es6",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced/2_原型",
     "1_Study/100_FE/003_Javascript/合并中/2_advanced",
@@ -305,7 +256,6 @@
     "Archive/🔗/Pasted image 20231017103147.png",
     "Archive/🔗/Pasted image 20231014101313.png",
     "Archive/🔗/Pasted image 20231014004549.png",
-    "2_Life/000_PeriodicNotes/23/1_Weekly/10",
     "4_WiKi/000_Subject/知识库搭建/多系统比较.canvas",
     "1_Study/100_FE/004_Server/node/overview.canvas",
     "未命名.canvas"
